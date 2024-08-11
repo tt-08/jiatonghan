@@ -1,4 +1,11 @@
-
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 **Welcome!**
 
 I’m a fifth-year Ph.D. candidate in Management at Zhejiang University (ZJU). Before joining ZJU, I earned my B.A. in Logistics Engineering from Chongqing University (CQU).
