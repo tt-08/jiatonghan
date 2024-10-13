@@ -17,37 +17,31 @@ Education
 
 Work experience
 ======
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-
+* July-August 2022: Summer Assistant
+  * Research Center for International Inspection and Quarantine Standards and Technical Regulations, General Administration of Customs
+  * Duties included: Web scraping and data analysis
   
+
+
 Skills
 ======
 * R
 * Python
 * Web Scraping
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Management Science Reproducibility Project
+  * We review the replication package of studies published in Management Science and report what extent we are able to reproduce the published results.
