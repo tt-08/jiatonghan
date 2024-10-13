@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "Management Economics"
+collection: Teaching assistant
+type: "Graduate course"
+permalink: 
+venue: "Zhejiang University, School of Management"
+date: 09/2021 - 11/2021
+location: "Hangzhou, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
