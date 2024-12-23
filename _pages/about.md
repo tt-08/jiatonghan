@@ -14,7 +14,9 @@ My work relies on natural experiments and archival data to study real-world beha
 
 Currently, I’m a visiting student at Caltech, working with Professor [Colin Camerer](https://www.hss.caltech.edu/people/colin-f-camerer). This experience allows me to explore habit in depth.
 
-In the future, I hope to study dishonest behavior in a lab to gain insights into why people make these choices.
+
+
+<!-- In the future, I hope to study dishonest behavior in a lab to gain insights into why people make these choices.-->
 
 
 <!-- I’m a fifth-year Ph.D. candidate in Management Science and Engineering at Zhejiang University (ZJU). Before joining ZJU, I earned my B.A. in Logistics Engineering from Chongqing University (CQU).
