@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 **Welcome!**
+I am a fifth-year Ph.D. candidate in Management Science and Engineering at Zhejiang University (ZJU), expecting to graduate in June 2026. My research focuses on peer effects, social networks, habit formation, and decision-making. I am fortunate to be advised by Professor [Fadong Chen](https://fadongchen.weebly.com/) (ZJU), Professor Colin Camerer [Colin Camerer](https://www.hss.caltech.edu/people/colin-f-camerer), and Professor [Yubai Yuan](https://yubaiyuan-stats.github.io/) (Penn State).
 
-I am a fifth-year Ph.D. candidate in Management Science and Engineering at Zhejiang University (ZJU), focusing on peer effects, social networks, habit, and decision-making. Guided by Professor [Fadong Chen](https://fadongchen.weebly.com/) at ZJU and Professor [Yubai Yuan](https://yubaiyuan-stats.github.io/) at Penn State, my research investigates how dishonest behavior spreads within social networks.
+My research investigates how system-gaming behavior spreads through social networks, combining natural experiments, archival data, and machine learning methods to understand how peer influence drives these behaviors and the development of related habits.
 
-My work relies on natural experiments and archival data to study real-world behavior. Recently, I’ve been using machine learning and economic models to examine how peer influence drives dishonesty and how such habits develop over time.
-
-Currently, I’m a visiting student at Caltech, working with Professor [Colin Camerer](https://www.hss.caltech.edu/people/colin-f-camerer). This experience allows me to explore habit in depth.
-
+Currently, I am a visiting student at Caltech, working with Professor Camerer, where I have the opportunity to explore the formation of habits in greater depth.
 
 
 <!-- In the future, I hope to study dishonest behavior in a lab to gain insights into why people make these choices.-->

@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Management Science and Engineering, Zhejiang University, 2025 (expected)
+* Ph.D in Management Science and Engineering, Zhejiang University, 2026 (expected)
 * Visiting Student, California Institute of Technology (Caltech)
 * B.S. in Logistics Engineering, Chongqing University, 2020
 
@@ -21,13 +21,16 @@ Work experience
   * Research Center for International Inspection and Quarantine Standards and Technical Regulations, General Administration of Customs
   * Duties included: Web scraping and data analysis
   
-
+Conferences
+======
+* The 14th Annual Southern California Conference in Applied Microeconomics (SoCCAM), April 2025
 
 Skills
 ======
 * R
 * Python
 * Web Scraping
+* Latex
 
 <!-- Publications
 ======
