@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Working paper
+## Working project
 1. **Risk Elicitation in the Field: Survey or Experiment?** 
     * With Fadong Chen, and Zhengyang Bao
     * We conduct a lab-in-the-filed experiment at a FinTech wealth management company and find that the experimental method outperforms the survey in predicting investment decisions in both short and long terms.
