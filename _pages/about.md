@@ -9,7 +9,7 @@ redirect_from:
 **Welcome!**
 I am a Ph.D. candidate in Management Science and Engineering at Zhejiang University (ZJU), expecting to graduate in December 2026. My research lies in behavioral and experimental economics, with a focus on peer effects, social networks, habit formation, and decision-making. I am fortunate to be advised by Professor [Fadong Chen](https://fadongchen.weebly.com/) (ZJU), Professor [Colin Camerer](https://www.hss.caltech.edu/people/colin-f-camerer) (Caltech), and Professor [Yubai Yuan](https://yubaiyuan-stats.github.io/) (Penn State).
 
-**I am currently on the job market and seeking postdoctoral positions starting in 2027.** Please feel free to [reach out](mailto:hanjt@zju.edu.cn).
+**I am seeking postdoctoral positions and will be available to begin in 2027, after completing my Ph.D.** Please feel free to [reach out](mailto:hanjt@zju.edu.cn).
 
 My research investigates how system-gaming behavior spreads through social networks, combining natural experiments, archival data, and machine learning methods to understand how peer influence drives these behaviors and the development of related habits.
 
