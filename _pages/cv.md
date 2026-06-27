@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/Jiatong_Han_CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
+
 Education
 ======
 * Ph.D. Candidate in Management Science and Engineering, Zhejiang University, 2020–2026 (expected)
@@ -73,3 +75,9 @@ References
 * Colin F. Camerer, California Institute of Technology
 * Yubai Yuan, Penn State University
 * Leo Bao, Monash University
+
+PDF Version
+======
+<iframe src="{{ base_path }}/files/Jiatong_Han_CV.pdf" width="100%" height="900px" style="border: 1px solid #ccc;">
+  This browser does not support inline PDFs. Please <a href="{{ base_path }}/files/Jiatong_Han_CV.pdf">download the PDF</a> to view it.
+</iframe>

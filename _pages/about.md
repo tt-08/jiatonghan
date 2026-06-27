@@ -13,6 +13,9 @@ My research investigates how system-gaming behavior spreads through social netwo
 
 I spent two years as a visiting student at Caltech, working with Professor Camerer, where I had the opportunity to explore the formation of habits in greater depth.
 
+{% include base_path %}
+📄 You can [download my CV (PDF)]({{ base_path }}/files/Jiatong_Han_CV.pdf), or view it on the [CV page]({{ base_path }}/cv/).
+
 
 <!-- In the future, I hope to study dishonest behavior in a lab to gain insights into why people make these choices.-->
 
